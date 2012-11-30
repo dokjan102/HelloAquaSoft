@@ -15,16 +15,9 @@ public final class R {
         public static final int ic_launcher=0x7f020001;
     }
     public static final class id {
-        public static final int analogClock1=0x7f070007;
-        public static final int checkBox1=0x7f070003;
-        public static final int chronometer1=0x7f070008;
-        public static final int menu_settings=0x7f070009;
-        public static final int progressBar1=0x7f070002;
-        public static final int seekBar1=0x7f070004;
-        public static final int spinner1=0x7f070005;
-        public static final int textView1=0x7f070001;
-        public static final int textView2=0x7f070000;
-        public static final int textView3=0x7f070006;
+        public static final int editText1=0x7f070000;
+        public static final int editText2=0x7f070001;
+        public static final int menu_settings=0x7f070002;
     }
     public static final class layout {
         public static final int activity_main=0x7f030000;
